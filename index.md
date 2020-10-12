@@ -49,9 +49,10 @@ __Associate's Degree, French Law and Common Law__
 `2015 - 2017`
 __Bachelor of Engineering__
 
-- Ecole Nationale Supérieure en Génie des Systèmes et de l'Innovation (Nancy, France)
+- National School in Industrial Systems Engineering (Nancy, France)
 - Focus on Mathematics, Physics and Innovation
-- Admission based on a competitive examination in mathematics and physics, was in the top 5% of applicants
+- Admission based on a competitive examination in mathematics and physics,
+- was in the top 5% of applicants
 
 `2012 - 2015`
 __Baccalauréat Scientifique (End of High School Diploma)__
