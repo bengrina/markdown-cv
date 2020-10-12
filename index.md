@@ -3,12 +3,11 @@ layout: cv
 title: Aymane Bengrina's CV
 ---
 # Aymane Bengrina
+French Business Law student with a keen interest in technology, seeking a career between those two worlds to work for the common good.
 
 <div id="webaddress">
 <a href="aymane.bengrina6@etu.univ-lorraine.fr">aymane.bengrina6@etu.univ-lorraine.fr</a>
 </div>
-
-French Business Law student with a keen interest in technology, seeking a career between those two worlds to work for the common good.
 
 ## Education
 
