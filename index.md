@@ -63,7 +63,7 @@ __Baccalauréat Scientifique (End of High School Diploma)__
 
 ## Professional Experiences
 
-`july and august 2020`
+`July and August 2020`
 __Internship__
 
 - ARCAD Avocats (Lawyer's office in Nancy, France)
@@ -71,7 +71,7 @@ __Internship__
 - Assisted with research in penal and civil cases
 - Provided legal advice to clients (under supervision)
   
-`Since june 2018`
+`Since 2018`
 __Student Job__
 
 - Cashier, E. Leclerc (French chain of superstores).
