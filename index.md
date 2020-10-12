@@ -17,7 +17,7 @@ __Magistère Juriste d'Affaires Européen__
 - Université de Lorraine (Nancy, France)
 - Three-year supplemental degree in European Business Law
 - Supplemental courses in English, Accounting, International Business Law
-- Admission based on application, around 20 students are accepted each year from a pool of around one thousand
+- Admission based on application, around 20 students are accepted each year
 
 `2020-2021`
 __Master's Degree, Business Law__
@@ -84,8 +84,18 @@ __Sauveteur Secouriste du Travail__
 
 ## Personal
 
-Interests include programming (Swift, C), outdoor sports, design, and literature.
+__Interests__
 
+- Programming (Swift, C)
+- Outdoor sports
+- Design
+- Literature
+
+__Languages__
+
+- French (Native)
+- English (Fluent)
+- Spanish (Intermediate)
 
 <!-- ### Footer
 
