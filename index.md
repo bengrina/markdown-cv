@@ -62,7 +62,7 @@ __Baccalauréat Scientifique (End of High School Diploma)__
 
 ## Professional Experiences
 
-`July and August 2020`
+`Summer 2020`
 __Internship__
 
 - ARCAD Avocats (Lawyer's office in Nancy, France)
