@@ -12,7 +12,7 @@ French Business Law student with a keen interest in technology, seeking a career
 
 ## Education
 
-`2019-2020`
+`2020-2021`
 __Master's Degree, Business Law__
 
 - Université de Lorraine (Nancy, France)
@@ -67,6 +67,7 @@ __Internship__
 - ARCAD Avocats (Lawyer's office in Nancy, France)
 - 4 partners and 2 collaborators
 - Assisted with research in penal and civil cases
+- Provided legal advice to clients (under supervision)
   
 `Since june 2018`
 __Student Job__
