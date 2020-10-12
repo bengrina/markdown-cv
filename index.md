@@ -8,6 +8,8 @@ title: Aymane Bengrina's CV
 <a href="aymane.bengrina6@etu.univ-lorraine.fr">aymane.bengrina6@etu.univ-lorraine.fr</a>
 </div>
 
+Business Law student with a keen interest in technology.
+
 ## Education
 
 `2019-2020`
@@ -58,12 +60,13 @@ __Internship__
 
 - ARCAD Avocats (Lawyer's office in Nancy, France)
 - 4 partners and 2 collaborators
-
+  - Assisted with research in penal and civil cases
 `Since june 2018`
 __Student Job__
 
 - Cashier, E. Leclerc (Convenience store)
 - Every sunday and vacations.
+  - 
 
 
 <!-- ### Footer
