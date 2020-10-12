@@ -8,7 +8,7 @@ title: Aymane Bengrina's CV
 <a href="aymane.bengrina6@etu.univ-lorraine.fr">aymane.bengrina6@etu.univ-lorraine.fr</a>
 </div>
 
-Business Law student with a keen interest in technology.
+French Business Law student with a keen interest in technology, seeking a career between those two worlds to benefit the public good.
 
 ## Education
 
@@ -66,7 +66,10 @@ __Student Job__
 
 - Cashier, E. Leclerc (Convenience store)
 - Every sunday and vacations.
-  - 
+
+## Personal
+
+Interests include programming (Swift, C), outdoor sports, design, and Literature
 
 
 <!-- ### Footer
