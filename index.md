@@ -67,6 +67,13 @@ __Student Job__
 - Cashier, E. Leclerc (Convenience store)
 - Every sunday and vacations.
 
+## Certifications
+
+`october 2020`
+__TOEFL__
+
+- Score: 113/120
+
 ## Personal
 
 Interests include programming (Swift, C), outdoor sports, design, and Literature
