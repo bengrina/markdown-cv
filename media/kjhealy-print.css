@@ -57,14 +57,14 @@ body {
 	line-height: 1.35em;
 	/*also written as...  font: normal normal 400 100%/1.5em;*/
 	font-family: Verdana,sans-serif;
-	/* margin-top: 1em;
+	/*margin-top: 1em;
 	margin-left: 1em;*/
 }
 
 p {
 	position: relative;
 	left: 28%;
-	margin-bottom: 0;
+	margin-bottom: 0.2em;
 	margin-right: 0;
 	width: 70%;
 }
@@ -130,13 +130,12 @@ h1+p {
 	/*subtitle*/
 	font-style: italic;
 	font-size: 110%;
-	margin-top: 0.25em;
 }
 
 h2 {
 	font-size: 1.1em;
 	color: #a00;
-	margin-top: 1em;
+	margin-top: 2em;
 	position: relative;
 	top: 1.2em;
 	text-align: right;
