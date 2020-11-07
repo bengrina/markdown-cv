@@ -79,6 +79,10 @@ __Student Job__
 
 ## Certifications
 
+`october 2020`
+__TOEFL__
+- Score: 113/120
+
 `2016`
 __Sauveteur Secouriste du Travail__
 - Advanced first aid training
@@ -100,6 +104,6 @@ __Languages__
 
 <!-- ### Footer
 
-Last updated: Oct 2020 -->
+Last updated: Nov 2020 -->
 
 
