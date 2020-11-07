@@ -79,7 +79,7 @@ __Student Job__
 
 ## Certifications
 
-`october 2020`
+`2020`
 __TOEFL__
 - Score: 113/120
 
